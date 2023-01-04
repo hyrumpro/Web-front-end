@@ -1,0 +1,211 @@
+ 
+ body {
+ 	text-align: center;
+ 	background-color: rgba(255, 255, 1, 0.5);
+
+
+ }
+
+ a {
+   text-decoration: none;
+
+ }
+
+ .banner {
+ 	background-image: url(Images/333.png);
+ 	width: 100%;
+ 	height: 90vh;
+ 	position: center;
+
+ }
+
+
+
+.navbar {
+	font-size: 16px;
+	letter-spacing: 1.2px;
+
+}
+
+.navbar img {
+   height: 50px;
+}
+
+
+
+
+
+
+
+.nav-item:hover {
+  background-color: blue;
+  color: white;
+  border-radius: 15px;
+}
+
+.nav-link:hover {
+   color: white;
+}
+
+
+.dropdown-menu {
+   background-color: rgba(255, 255, 255, 0.89);
+}
+
+
+
+.bg-light {
+	/* background-color: transparent !important;  /* Define the navbar background-color */
+	
+}
+
+
+/*Another part */
+
+#title1 {
+   color: white;
+   letter-spacing: 1px;
+   position: center;
+   font-size: 90px;
+   margin-top: 120px;
+}
+
+#p-1 {
+   color: white;
+   text-align: center;
+   margin-top: 50px;
+   font-size: 20px;
+   font-weight: bold;
+   font-family: sans-serif;
+   padding-left: 30px;
+   padding-right: 30px;
+
+}
+
+
+#btn-1 {
+   background-color: green;
+   color: white;
+   border-color: green;
+   width: 100px;
+   height: 50px;
+   font-size: 14px;
+
+}
+
+#btn-1:hover {
+   background-color: transparent;
+   font-size: 15px;
+   font-weight: bold;
+   color: white;
+
+
+}
+
+
+.blog-1 {
+   height: 100%;
+   display: flex;
+}
+
+
+.blog img {
+   width: 400px;
+}
+
+.blog a {
+   color: black;
+}
+
+
+
+#blog-p-1 {
+   height: 25rem;
+   padding-top: 15px;
+  
+}
+
+#blog-p-2 {
+   padding-top: 15px;
+   height: 25rem;
+   display: flex;
+}
+
+
+
+
+
+footer {
+   color: white;
+   font-style: san-serif;
+   align-items: stretch;
+   display: flex;
+}
+
+#row-f {
+   padding-top: 90px;
+
+
+}
+
+
+
+/*Modal web 1*/
+#Modal-web-1 {
+    background-color: rgba(0, 0, 0, 0.25);
+
+
+}
+
+.modal-content {
+   background-color: rgba(255, 0255, 255, 0.8);
+   border-color: white;
+   border-radius: 15px;
+   width: 650px;
+   height: 650px;
+   position: center;
+}
+
+#img-i-1 {
+   width: 250px;
+   height: 150px;
+}
+
+#iframe-1 {
+   position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Without bootstrap button
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+

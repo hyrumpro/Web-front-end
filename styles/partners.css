@@ -1,0 +1,146 @@
+ 
+ body {
+ 	text-align: center;
+ 	background-color: rgba(25, 55, 50, 0.5);
+   background-image: url(Images/b-1-2.jpg);
+   background-size  : cover;/*Help to pocitioned the background image contain cover auto*/
+   position: center;
+   background-repeat: no-repeat; /*No repeat the image*/
+ }
+
+
+.navbar {
+	font-size: 16px;
+	letter-spacing: 1.2px;
+
+}
+
+.navbar-brand {
+    background-color: #809966;
+    padding: 2px;
+
+}
+
+
+
+.dropdown-menu {
+   background-color: white;
+}
+
+
+
+.navbar img {
+   height: 50px;
+}
+
+.navbar-brand {
+    background-color: #809966;
+    padding: 2px;
+
+}
+
+.nav-item:hover {
+  background-color: blue;
+  color: white;
+  border-radius: 15px;
+}
+
+.nav-link:hover {
+   color: white;
+}
+
+
+
+
+
+
+.bg-light {
+	/* background-color: transparent !important;  /* Define the navbar background-color */
+	
+}
+
+
+
+
+
+
+
+
+
+#main-page {
+   height: 500px;
+   width: 100%;
+   position: center;
+   text-align: center;
+   padding-top: 200px;
+   padding-bottom: 199px;
+   border-radius: 10px;
+   color: white;
+}
+
+
+
+#btn-main {
+   background-color: rgba(250, 250, 250, 0.60);
+   font-family: georgia;
+}
+
+#btn-main:hover {
+   background-color: rgba(250, 250, 250, 0.95);
+   font-weight: bold;
+   color: black;
+}
+
+h1 {
+   background-color: rgba(10, 10, 10, 0.40);
+}
+
+#p-m-1 {
+   background-color: rgba(10, 10, 10, 0.40);
+
+}
+
+.row img {
+   height: 250px;
+}
+
+.row {
+   padding-top: 10px;
+   background-color: rgba(210, 210, 210, 0.60);
+   border-radius: 15px;
+}
+
+
+.featurette-divider {
+    color: white;
+    padding: auto;
+}
+
+
+
+
+#Modal-pa {
+   position: center;
+   background-color: rgba(1, 1, 1, 0.89);
+
+}
+
+.modal-dialog {
+   background-color: rgba(255, 255, 250, 0.89);
+}
+
+
+.img-1-c {
+   border-radius: 50%;
+   width: 250px;
+   height: 250px;
+}
+
+
+.img-1-c:hover {
+   border-radius: 50%;
+   width: 270px;
+   height: 270px;
+
+}
+

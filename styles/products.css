@@ -1,0 +1,240 @@
+/*Made by Hyrum Perez Abanto and Bootstrap */
+
+ /*Global*/
+ body {
+ 	text-align: center;
+ 	background-color: rgba(200, 200, 200, 0.5);
+ }
+
+.col-4 i {
+   width: 50px;
+   font-size: 50px;
+}
+
+/*Golbal*/
+
+
+
+
+
+
+.navbar {
+	font-size: 16px;
+	letter-spacing: 1.2px;
+
+}
+
+.navbar-brand {
+    background-color: #809966;
+    padding: 2px;
+
+}
+
+
+
+.navbar img {
+   height: 50px;
+}
+
+.navbar-brand {
+    background-color: #809966;
+    padding: 2px;
+
+}
+
+.nav-item:hover {
+  background-color: blue;
+  color: white;
+  border-radius: 15px;
+}
+
+.nav-link:hover {
+   color: white;
+}
+
+
+.dropdown-menu {
+   background-color: rgba(255, 255, 255, 0.89);
+}
+
+
+
+
+
+.bg-light {
+	/* background-color: transparent !important;  /* Define the navbar background-color */
+	
+}
+
+
+/*Carousel Part*/
+
+.carousel-control-prev:hover {
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+.carousel-control-next:hover {
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+.carousel-caption {
+   text-align: center;
+   background-color: rgba(0, 0, 0, 0.2);
+}
+
+
+#btn-1 {
+   background-color: rgba(255, 255, 255, 0.35);
+   color: black;
+   width: 70px;
+   border-color: white;
+}
+#btn-1:hover {
+  background-color: rgba(255, 255, 255, 0.75);
+  font-weight: bold;
+
+}
+
+
+
+
+
+
+/*Another secction*/
+
+#container-1 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+#img-p-1 {
+  height: 250px;
+}
+
+
+#img-p-2 {
+ height: 250px;
+}
+
+/*
+
+*/
+
+
+#c-2 {
+   height: 300px;
+   position: center;
+   padding-top: 80px;
+   background-color: rgb(30, 30, 30);
+   color: rgb(10, 244, 219);
+   letter-spacing: 1px;
+
+}
+
+.center-1 {
+   padding-top: 10px;
+}
+
+
+/*another secction*/
+
+
+.row {
+   margin-top: 50px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+
+
+
+.text-bg-dark {
+    color: #fff!important;
+    background-color: RGBA(33,37,41,0.5)!important;
+}
+
+.col-md-6 .bg-light {
+    background-color: #ffff66!important;
+    color: black;
+    border-color: black;
+}
+
+#btn-j-2 {
+   border-color: black;
+   color: black;
+}
+
+#btn-j-2:hover {
+    color: #ffff66;
+    font-weight: bold;
+    background-color: black;
+
+}
+
+#Modal-d {
+   background-color: rgba(10, 10, 10, 0.33);
+
+}
+
+.modal-content {
+   background-color: rgba(240, 240, 240, 0.9);
+}
+
+
+#alert1 {
+  position: right;
+  z-index: 20;
+  border-radius: 15px;
+  width:auto;
+}
+
+
+
+
+
+footer {
+   text-align: right;
+   background-color: rgba(50, 50, 50, 0.7);
+   color: white;
+   text-align: center;
+   z-index: 10;
+
+}
+
+footer i {
+   background-color: rgba(10, 10, 10, 0.5);
+   color: white;
+   font-size: 20px;
+   text-align: center;
+   
+} 
+
+footer i:hover {
+   background-color: rgba(50, 50, 50, 0.7);
+   color: white;
+   font-size: 21px;
+   border-radius: 50%;
+   padding-bottom: 50px;
+} 
+
+f-p-1 {
+   color: white;
+
+}
+
+
+
+
+
+
+
+/*
+z-index = object superpocistion and 
+*/
+
+
+
+
+
+
+

@@ -1,0 +1,46 @@
+ 
+ body {
+ 	text-align: center;
+ 	background-color: rgba(255, 255, 1, 0.5);
+ }
+
+ .banner {
+ 	background-image: url(Images/333.png);
+ 	width: 100%;
+ 	height: 90vh;
+ 	position: center;
+ }
+
+.navbar {
+	font-size: 16px;
+	letter-spacing: 1.2px;
+
+}
+
+.navbar-brand {
+    background-color: #809966;
+    padding: 2px;
+
+}
+
+
+.navbar-nav ul:hover {
+   background-color: green;
+}
+
+.dropdown-menu {
+   background-color: blueviolet;
+}
+
+
+
+
+
+
+.bg-light {
+	/* background-color: transparent !important;  /* Define the navbar background-color */
+	
+}
+
+
+

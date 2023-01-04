@@ -1,0 +1,97 @@
+ 
+ body {
+ 	text-align: center;
+ 	background-color: rgba(255, 255, 255, 0.5);
+    background-image: url(Images/b-1-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+
+
+
+.navbar {
+	font-size: 16px;
+	letter-spacing: 1.2px;
+
+}
+
+
+.bg-light {
+	/* background-color: transparent !important;  /* Define the navbar background-color */
+	
+}
+
+
+.dropdown-menu {
+   background-color: white;
+}
+
+
+
+.navbar img {
+   height: 50px;
+}
+
+.navbar-brand {
+    background-color: #809966;
+    padding: 2px;
+
+}
+
+.nav-item:hover {
+  background-color: blue;
+  color: white;
+  border-radius: 15px;
+}
+
+.nav-link:hover {
+   color: white;
+}
+
+
+
+
+
+
+.bg-light {
+    /* background-color: transparent !important;  /* Define the navbar background-color */
+    
+}
+
+h1 {
+    padding-top: 250px;
+    padding-bottom: 250px;
+    background-image: rgba(0, 0, 0, 0.49);
+}
+
+
+#Social-networks {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#t-c-s-1 {
+    color: black;
+}
+
+#t-c-s-2 {
+   color: black;
+}
+
+#t-c-s-3 {
+    color: white;
+}
+
+
+#c-p-1 {
+    color: black;
+}
+
+#c-p-2 {
+   color: black;
+}
+
+#c-p-3 {
+   color: white; 
+}
